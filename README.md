@@ -1,4 +1,11 @@
 # Hi, I am Ritu Yadav 
-Course: Integrated M.Tech Artificial Intelligence
 - Year: 1st Year
-- I am learning programming, AI, and building projects.
+🎓 Mtech Student at VIT Bhopal  
+💻 Interested in learning programming  
+🌱 Currently learning digital skills  
+
+## Goals
+- Improve coding skills  
+- Build projects  
+- Learn new technologies  
+
